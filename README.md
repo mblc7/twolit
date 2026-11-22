@@ -1,6 +1,16 @@
 # 2lit
 
-* 一个新的 Minecraft 启动器基于 Python Flet (正在开发)
-* 一個新的 Minecraft 啓動器基於 Python Flet (正在開發)
-* A new Minecraft Launcher based on Python Flet (under development)
-* Python Flet 기반의 새로운 마인크래프트 런처 (개발 중)
+## 语言支持
+
+此启动器支持5种语言：
+
+* 简体中文
+* 繁体中文（繁體中文）
+* 英式英语（English (UK)）
+* 美式英语（English (US)）
+* 韩语（한국인）
+
+### 可以考虑
+
+* 俄语（Русский）
+* 德语（Deutsch)
